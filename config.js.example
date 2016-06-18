@@ -1,0 +1,5 @@
+const config = {
+  ny_times_api_key: '',
+};
+
+export default config;
